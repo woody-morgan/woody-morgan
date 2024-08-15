@@ -33,6 +33,10 @@ Frontend Developer who cares about DX and Business
 ![Tesla](https://img.shields.io/badge/-Tesla-CC0000?logo=tesla&logoColor=white&style=for-the-badge)
 ![SpaceX](https://img.shields.io/badge/-SpaceX-000000?logo=spacex&logoColor=white&style=for-the-badge)
 
+<p>
+and follow best practices on every field
+</p>
+
 
 ### Stats
 
