@@ -10,8 +10,8 @@
   - Data Modeling based on [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
   - Learning Curry, Partial Application, Algebraic Effect/Data-Type, None/Opaque Type Etc.
 - 🏢 42dot Inc. FrontEnd Developer (2023.02 ~ 2023.11)
-  - Design System Architeching(With React-Aria, Compound Pattern, Slot Component)
-  - Contributed to FMS(Fleet Management System) Product Building
+  - **Design System Architeching(With React-Aria, Compound Pattern, Slot Component)**
+  - **Contributed to FMS(Fleet Management System) Product Building**
   - Focused on Type Safety Management
 - 🏢 Krafton Inc. FrontEnd Developer (2023.12 ~ )
   - **Create Internal Service Deployment Platform(Lumberjack)**
