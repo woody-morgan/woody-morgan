@@ -1,6 +1,6 @@
 ## Kim, Dong-Wook
 
-focus on impact
+그냥 하기
 
 - 🏫 Chung-Ang University, CSE (2017.03 ~ 2023.02)
 - 🎓 Software Maestro, 13th (2022.05 ~ 2022.11)
