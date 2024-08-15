@@ -11,7 +11,8 @@
   - Learning Curry, Partial Application, Algebraic Effect/Data-Type, None/Opaque Type Etc.
 - 🏢 42dot Inc. FrontEnd Developer (2023.02 ~ 2023.11)
   - Design System Architeching(With React-Aria, Compound Pattern, Slot Component)
-  - Type Safety Manage 
+  - Contributed to FMS(Fleet Management System) Product Building
+  - Focused on Type Safety Management
 - 🏢 Krafton Inc. FrontEnd Developer (2023.12 ~ )
   - **Create Internal Service Deployment Platform(Lumberjack)**
   - [Mock Auto Generation](https://github.com/zoubingwu/msw-auto-mock)
