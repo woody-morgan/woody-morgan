@@ -30,10 +30,9 @@ Frontend Developer who cares about DX and Business
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?logo=graphql&logoColor=white&style=for-the-badge)
 ![Relay](https://img.shields.io/badge/-Relay-f26b00?logo=relay&logoColor=white&style=for-the-badge)
 
-<div>
-   and
-  <img align="top" style="padding:0;" src="https://img.shields.io/badge/-Tesla-CC0000?logo=tesla&logoColor=white&style=for-the-badge" />
-</div>
+![Tesla](https://img.shields.io/badge/-Tesla-CC0000?logo=tesla&logoColor=white&style=for-the-badge)
+![SpaceX](https://img.shields.io/badge/-SpaceX-000000?logo=spacex&logoColor=white&style=for-the-badge)
+
 
 ### Stats
 
