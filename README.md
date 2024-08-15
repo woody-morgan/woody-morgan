@@ -13,7 +13,7 @@
   - **Design System Architeching(With React-Aria, Compound Pattern, Slot Component)**
   - **Contributed to FMS(Fleet Management System) Product Building**
   - Focused on Type Safety Management
-- 🏢 Krafton Inc. FrontEnd Developer (2023.12 ~ )
+- 🏢 Krafton-Overdare Inc. FrontEnd Developer (2023.12 ~ )
   - **Create Internal Service Deployment Platform(Lumberjack)**
   - [Mock Auto Generation](https://github.com/zoubingwu/msw-auto-mock)
   - [Testing Automation](https://github.com/Endava/cats)
