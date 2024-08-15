@@ -22,12 +22,10 @@ and founder of [Container 101](https://github.com/container-101)
 
 ![Typescript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Rescript](https://img.shields.io/badge/-Rescript-e6484f?logo=rescript&logoColor=white&style=for-the-badge)
+![Relay](https://img.shields.io/badge/-Relay-f26b00?logo=relay&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![RadixUI](https://img.shields.io/badge/-Radix_UI-161618?logo=radixui&logoColor=white&style=for-the-badge)
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?logo=graphql&logoColor=white&style=for-the-badge)
-![Relay](https://img.shields.io/badge/-Relay-f26b00?logo=relay&logoColor=white&style=for-the-badge)
 
 ![Tesla](https://img.shields.io/badge/-Tesla-CC0000?logo=tesla&logoColor=white&style=for-the-badge)
 ![SpaceX](https://img.shields.io/badge/-SpaceX-000000?logo=spacex&logoColor=white&style=for-the-badge)
