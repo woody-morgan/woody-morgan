@@ -1,16 +1,18 @@
 ### Who am I (Updated at Nov 02, 22)
 
+#### History
+
+- [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
+
 #### Currently Working
 
 - [Organizing Blog](https://woodi97.github.io)
-- [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
 
 #### CS Knowledges
 
 - [CAU Arxiv](https://github.com/CauArchive)
 
 #### Currently Learning
-
 - Next.js & Nest.js
 - Beakjoon(Gold II)
 
