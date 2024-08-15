@@ -24,7 +24,7 @@
  
 ### Crafting
 
-- 🏢 Kroma Key. Founder(2024.09 ~ )
+- 🏢 [Kroma Key](https://github.com/kroma-key) Inc. Founder(2024.09 ~ )
   - **Snapting**
 
 ### Intersted
