@@ -1,4 +1,4 @@
-## Kim, Dong-Wook 
+## Kim, Dong-Wook(a.k.a woodi)
 
 Frontend Developer who cares about DX and Business
 
