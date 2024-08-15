@@ -1,4 +1,4 @@
-### Who am I (Updated at June 30, 22)
+### Who am I (Updated at Nov 02, 22)
 
 #### Currently Working
 
@@ -6,10 +6,6 @@
 - [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
 - [Baby Logger App](https://with-you-front-end.vercel.app/)
 - [Online Cafe Platform](https://study-cafe.vercel.app/)
-- Musician intermediary platform
-
-#### Currently Renewing
-
 - [Voice Chat SNS](https://surrounds-fe.vercel.app)
 - [Advent Calendar](https://woodi97.github.io/zp-advent-calendar/)
 
