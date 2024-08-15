@@ -1,4 +1,4 @@
-### Who am I (Updated at April 11, 22)
+### Who am I (Updated at July 18, 22)
 
 #### Currently Working
 
@@ -9,7 +9,7 @@
 
 #### Currently Learning
 
-- Javascript & React
+- Next.js & Nest.js
 - Beakjoon(Gold II)
 - Flutter(Dart)
 
