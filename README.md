@@ -7,6 +7,7 @@
 - 🏢 Greenlabs Inc. FrontEnd Developer (2022.12 ~ 2023.02)
 - 🏢 42dot Inc. FrontEnd Developer (2023.02 ~ 2023.11)
 - 🏢 Krafton Inc. FrontEnd Developer (2023.12 ~ )
+  - [Mock Generation](https://github.com/zoubingwu/msw-auto-mock)   
 
 ### Recent Post
 
