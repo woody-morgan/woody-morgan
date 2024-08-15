@@ -2,7 +2,7 @@
 
 #### Currently Working
 
-- [Organizing](https://woodi97.github.io) Blog
+- [Organizing Blog](https://woodi97.github.io)
 - [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
 - House Scanning & Matching App
 
