@@ -11,7 +11,7 @@
 
 #### Currently Renewing
 
-- [Voice Chat SNS](https://github.com/woodi97/surrounds_fe)
+- [Voice Chat SNS](https://surrounds-fe.vercel.app)
 - [Advent Calendar](https://woodi97.github.io/zp-advent-calendar/)
 
 #### CS Knowledges
