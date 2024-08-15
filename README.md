@@ -10,7 +10,7 @@
 
 ### Recent Post
 
-- [ColorToken Flattening for Vanilla Extract CSS (feat. Typescript)](https://woodi97.github.io/blog/javascript/flat-color-token-object-for-vanilla-extract)
+- [[회고] 이직을 하며](https://woodi97.github.io/blog/retrospect/retrospect-krafton)
 - [Declarative Programming starting with React - Part 2](https://woodi97.github.io/blog/reactjs/declarative-programming-part2)
 - [Declarative Programming starting with React - Part 1](https://woodi97.github.io/blog/reactjs/declarative-programming-part1)
 
