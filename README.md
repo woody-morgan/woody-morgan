@@ -2,12 +2,30 @@
 
 그냥 하기. 본질 빼고 모든 것을 버리기
 
+### Career
+
 - 🏫 Chung-Ang University, CSE (2017.03 ~ 2023.02)
 - 🎓 Software Maestro, 13th (2022.05 ~ 2022.11)
 - 🏢 Greenlabs Inc. FrontEnd Developer (2022.12 ~ 2023.02)
+  - Data Modeling based on [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+  - Learning Curry, Partial Application, Algebraic Effect/Data-Type, None/Opaque Type Etc.
 - 🏢 42dot Inc. FrontEnd Developer (2023.02 ~ 2023.11)
+  - Design System Architeching(With React-Aria, Compound Pattern, Slot Component)
+  - Type Safety Manage 
 - 🏢 Krafton Inc. FrontEnd Developer (2023.12 ~ )
-  - [Mock Generation](https://github.com/zoubingwu/msw-auto-mock)   
+  - **Create Internal Service Deployment Platform(Lumberjack)**
+  - [Mock Auto Generation](https://github.com/zoubingwu/msw-auto-mock)
+  - [Testing Automation](https://github.com/Endava/cats)
+  - PR Title, Label Checker based on Github Action
+  - Commit & Build Rule Automation based on Husky Hook
+  - CI/CD speed improvment(Divide fe/be Build Proess, yarn v1 -> pnpm, webpack -> vite)
+  - Test Code Culture Introduction
+  - Build JS/TS In-house utility library
+ 
+### Crafting
+
+- 🏢 Kroma Key. Founder(2024.09 ~ )
+  - **Snapting**
 
 ### Intersted
 
