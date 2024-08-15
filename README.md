@@ -9,7 +9,7 @@
 #### Currently Learning
 
 - JS(React&Next, Nest)
-- Algirhtm(Gold V)
+- Algirhtm(Gold IV)
 - Flutter(Dart)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodi97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
