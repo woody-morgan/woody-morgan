@@ -6,6 +6,8 @@
 - [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
 - [Baby Logger App](https://with-you-front-end.vercel.app/)
 - [Online Cafe Platform](https://study-cafe.vercel.app/)
+- [Online Talking Place](https://surrounds-fe.vercel.app/)
+- Musician intermediary platform
 
 #### CS Knowledges
 
