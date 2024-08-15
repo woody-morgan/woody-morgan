@@ -11,9 +11,7 @@
 
 ### Intersted
 
-- [FxTS](https://github.com/marpple/FxTS)
-- [es-toolkit](https://github.com/toss/es-toolkit)
-- [ts-belt](https://github.com/mobily/ts-belt)
+- [FxTS](https://github.com/marpple/FxTS) [ts-belt](https://github.com/mobily/ts-belt) [es-toolkit](https://github.com/toss/es-toolkit) 
 
 ### Recent Post
 
