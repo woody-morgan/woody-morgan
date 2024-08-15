@@ -1,5 +1,16 @@
-I'm working on ... Algorithm Problem Suggestion App</br>
-I'm learning ... FE(ReactJS, Flutter), BE(NestJS, Kotlin Spring)
+### Who am I (Updated at Feb 6, 22)
+
+#### Currently Working
+
+- Reactjs & Nextjs [Boilerplating](https://nextjs-test-template.herokuapp.com)
+- [Organizing](https://woodi97.github.io) What I've learned & studied at 2021
+- Making Algorithm App & Specific Purpose Timer App
+
+#### Currently Learning
+
+- JS(React&Next, Nest)
+- Algirhtm(Gold V)
+- Flutter(Dart)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodi97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woodi97)](https://github.com/anuraghazra/github-readme-stats)
