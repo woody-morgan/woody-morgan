@@ -1,4 +1,4 @@
-### Who am I (Updated at July 20, 22)
+### Who am I (Updated at June 30, 22)
 
 #### Currently Working
 
@@ -8,6 +8,11 @@
 - [Online Cafe Platform](https://study-cafe.vercel.app/)
 - [Online Talking Place](https://surrounds-fe.vercel.app/)
 - Musician intermediary platform
+
+#### Currently Renewing
+
+- [Voice Chat SNS](https://github.com/woodi97/surrounds_fe)
+- [Advent Calendar](https://woodi97.github.io/zp-advent-calendar/)
 
 #### CS Knowledges
 
