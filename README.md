@@ -2,7 +2,7 @@
 
 Frontend Developer who cares about DX and Business
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodi97%2Fhit-counter&count_bg=%23181717&title_bg=%23555555&icon=tesla.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodi97%2Fhit-counter&count_bg=%23181717&title_bg=%23555555&icon_color=%23E7E7E7&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <a target="_blank" href="https://woodi97.github.io/"><img src="https://img.shields.io/badge/Blog-woodi97-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a target="_blank" href="https://github.com/CauArchive"><img src="https://img.shields.io/badge/Repo-CS_Knowledge-a374db?style=for-the-badge&logoColor=white" /></a>
