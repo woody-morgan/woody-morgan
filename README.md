@@ -8,7 +8,7 @@
 - 🎓 Software Maestro, 13th (2022.05 ~ 2022.11)
 - 🏢 Greenlabs Inc. FrontEnd Developer (2022.12 ~ 2023.02)
 - 🏢 42dot Inc. FrontEnd Developer (2023.02 ~ 2023.11)
-- 🏢 Krafton-Overdare Inc. FrontEnd Developer (2023.12 ~ )
+- 🏢 Krafton Inc. FrontEnd Developer (2023.12 ~ )
  
 ### Crafting
 
