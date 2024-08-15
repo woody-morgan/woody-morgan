@@ -1,6 +1,6 @@
 ## Kim, Dong-Wook
 
-Frontend Developer cares about DX and Business
+현재에 만족하지 않는, 위대함을 이루고 싶습니다.
 
 - 🏫 Chung-Ang University, CSE (2017.03 ~ 2023.02)
 - 🎓 Software Maestro, 13th (2022.05 ~ 2022.11) Typescript, Next.js 12
