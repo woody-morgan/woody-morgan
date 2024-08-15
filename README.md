@@ -1,14 +1,14 @@
-### Who am I (Updated at Feb 6, 22)
+### Who am I (Updated at April 11, 22)
 
 #### Currently Working
 
-- Reactjs & Nextjs [Boilerplating](https://template-next-two.vercel.app/)
-- [Organizing](https://woodi97.github.io) What I've learned & studied at 2021
-- Making Algorithm App & Specific Purpose Timer App
+- [Organizing](https://woodi97.github.io) Blog
+- [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
+- House Scanning & Matching App
 
 #### Currently Learning
 
-- JS(React&Next, Nest)
+- Javascript & React
 - Algirhtm(Gold III)
 - Flutter(Dart)
 
