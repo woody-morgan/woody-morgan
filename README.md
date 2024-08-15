@@ -13,8 +13,7 @@ Discard everything except the essence.
  
 ### 🛠 Crafting
 
-- 🏢 [Kroma Key](https://github.com/kroma-key) Inc. Founder(2024.09 ~ )
-  - **Snapting**
+- 🏢 Kroma Key Inc. Founder(2024.09 ~ )
 
 ### 🧠 Interests
 
