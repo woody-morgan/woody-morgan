@@ -9,6 +9,12 @@
 - 🏢 Krafton Inc. FrontEnd Developer (2023.12 ~ )
   - [Mock Generation](https://github.com/zoubingwu/msw-auto-mock)   
 
+### Intersted
+
+- [FxTS](https://github.com/marpple/FxTS)
+- [es-toolkit](https://github.com/toss/es-toolkit)
+- [ts-belt](https://github.com/mobily/ts-belt)
+
 ### Recent Post
 
 - [[회고] 이직을 하며](https://woodi97.github.io/blog/retrospect/retrospect-krafton)
