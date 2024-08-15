@@ -4,9 +4,9 @@ Frontend Developer who cares about DX and Business
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodi97%2Fhit-counter&count_bg=%23181717&title_bg=%23555555&icon=tesla.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![Blog](https://img.shields.io/badge/Blog-woodi97-181717?style=for-the-badge&logo=Github&logoColor=white)
-![Repo-CAU_Archive](https://img.shields.io/badge/Repo-CAU_Archive-a374db?style=for-the-badge&logoColor=white)
-![Repo-Container101](https://img.shields.io/badge/Repo-Container101-006EF9?style=for-the-badge&logoColor=white)
+<a target="_blank" href="https://woodi97.github.io/"><img src="https://img.shields.io/badge/Blog-woodi97-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a target="_blank" href="https://github.com/CauArchive"><img src="https://img.shields.io/badge/Repo-CS_Knowledge-a374db?style=for-the-badge&logoColor=white" /></a>
+<a target="_blank" href="https://github.com/container-101"><img src="https://img.shields.io/badge/Repo-Container101-006EF9?style=for-the-badge&logoColor=white" /></a>
 
 - 🏫 Chung-Ang University, CSE (2017.03 ~ 2023.02)
 - 🎓 Software Maestro, 13th (2022.05 ~ 2022.11) Typescript, Next.js 12
