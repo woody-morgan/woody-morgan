@@ -4,7 +4,8 @@
 
 - [Organizing Blog](https://woodi97.github.io)
 - [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
-- House Scanning & Matching App
+- [Baby Logger App](https://with-you-front-end.vercel.app/)
+- [Online Cafe Platform](https://study-cafe.vercel.app/)
 
 #### Currently Learning
 
