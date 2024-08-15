@@ -36,9 +36,3 @@ Frontend Developer who cares about DX and Business
 <p>
 and follow best practices on every field
 </p>
-
-
-### Stats
-
-[![Top Langs](https://github-readme-stats-woodi97.vercel.app/api/top-langs/?username=woodi97&layout=compact&card_width=200&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-woodi97.vercel.app/api?username=woodi97&rank_icon=percentile&card_width=200&show_icons=true&line_height=24&custom_title=Stats&theme=react)](https://github.com/anuraghazra/github-readme-stats)
