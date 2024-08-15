@@ -7,12 +7,11 @@
 #### Currently Working
 
 - [Organizing Blog](https://woodi97.github.io)
+- [Container101](https://github.com/container-101), Building Mutual Ordering Application
 
-#### CS Knowledges
+#### Learning & Learned
 
 - [CAU Arxiv](https://github.com/CauArchive)
-
-#### Currently Learning
 - Next.js & Nest.js
 - Beakjoon(Gold II)
 
