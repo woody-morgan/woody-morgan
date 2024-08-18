@@ -18,10 +18,3 @@ Discard everything except the essence.
 ### 🧠 Interests
 
 - [fx-ts](https://github.com/marpple/FxTS) •  [ts-belt](https://github.com/mobily/ts-belt) • [es-toolkit](https://github.com/toss/es-toolkit) 
-
-### 📝 Recent Posts
-
-- [[회고] 이직을 하며](https://woodi97.github.io/blog/retrospect/retrospect-krafton)
-- [Declarative Programming starting with React - Part 2](https://woodi97.github.io/blog/reactjs/declarative-programming-part2)
-- [Declarative Programming starting with React - Part 1](https://woodi97.github.io/blog/reactjs/declarative-programming-part1)
-
