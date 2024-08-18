@@ -17,4 +17,4 @@ Discard everything except the essence.
 
 ### 🧠 Interests
 
-- [fx-ts](https://github.com/marpple/FxTS) •  [ts-belt](https://github.com/mobily/ts-belt) • [es-toolkit](https://github.com/toss/es-toolkit) 
+- [FxTS](https://github.com/marpple/FxTS) •  [TsBelt](https://github.com/mobily/ts-belt) • [esToolKit](https://github.com/toss/es-toolkit) 
