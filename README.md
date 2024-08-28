@@ -3,6 +3,7 @@
 Discard everything except essence.
 
 Mostly Frontend Engineer
+
 Currently Doing Frontend Ops
 
 ### 🧠 Interests
