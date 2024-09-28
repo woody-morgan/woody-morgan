@@ -1,10 +1,6 @@
 # Kim, Dong-Wook
 
-Discard everything except essence.
-
-Mostly Frontend Engineer
-
-Currently Doing Frontend Ops
+Doing inspirational thing with inspirational people
 
 ### 🧠 Interests
 
